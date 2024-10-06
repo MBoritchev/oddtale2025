@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
-       <loc>WEBSITE</loc>
+       <loc>https://mboritchev.github.io/oddtale2025/</loc>
    </url>
    <url>
-       <loc>WEBSITE/registration</loc>
+       <loc>https://mboritchev.github.io/oddtale2025/registration</loc>
    </url>
    <url>
-       <loc>WEBSITE/program</loc>
+       <loc>https://mboritchev.github.io/oddtale2025/program</loc>
    </url>
    <url>
-       <loc>WEBSITE/directions</loc>
+       <loc>https://mboritchev.github.io/oddtale2025/directions</loc>
+   </url>
+   <url>
+       <loc>https://mboritchev.github.io/oddtale2025/flyer</loc>
+   </url>
+    <url>
+       <loc>https://mboritchev.github.io/oddtale2025/ressources</loc>
    </url>
 </urlset> 
 
